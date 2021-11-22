@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Coding and Custom Rom Development(Building)
 - 🌱 I’m currently learning ... PYHTON , Angular , MySql ,SpringBoot
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... emailId : aryanchandra7360@gmail.com
+- 📫 How to reach me ... EmailId : aryanchandra7360@gmail.com
 
 <!---
 darkenergy1856/darkenergy1856 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
