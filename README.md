@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @darkenergy1856
+- 👋 Hi, I’m @darkenergy1856 (Aryan Chandra)
 - 👀 I’m interested in ... Coding and Custom Rom Development(Building)
 - 🌱 I’m currently learning ... PYHTON , Angular , MySql ,SpringBoot
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... Java  , C++ , PYHTON , Angular , MySql , SpringBoot , Android Development
 - 📫 How to reach me ... EmailId : aryanchandra7360@gmail.com
 
 <!---
